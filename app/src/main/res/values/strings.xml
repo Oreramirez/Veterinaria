@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Veterinaria</string>
+
+    <string name="single_touchimageview">Single TouchImageView</string>
+    <string name="viewpager_example">ViewPager Example</string>
+    <string name="mirror_touchimageview">Mirroring Example</string>
+    <string name="switch_image_example">Switch Image Example</string>
+    <string name="switch_scaletype_example">Switch ScaleType Example</string>
+
+</resources>
